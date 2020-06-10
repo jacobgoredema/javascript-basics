@@ -1,0 +1,9 @@
+{
+    "sqltools.connections": [
+        {
+            "driver": "MSSQL",
+            "name": "JHB-JACOBGOREDE\\SQLEXPRESS",
+            "previewLimit": 50
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+.danger{
+    color: red;
+}
+
+.danger:hover{
+    border-color: 1px solid brown;
+}
+
+.cursor{
+    cursor: pointer;
+    
+} 
+span.customer{
+    padding: 8px 20px;
+}
